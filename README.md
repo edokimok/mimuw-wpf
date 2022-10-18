@@ -1,4 +1,4 @@
-# WPF - Introduction to Functional Frogramming
+# WPF - Introduction to Functional Programming
 
 The folder contains of six projects assigned for the subject Introduction to Functional Programming at MIM UW.
 All projects are written in OCaml.
